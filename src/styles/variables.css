@@ -1,0 +1,17 @@
+.btn-primary {
+    --bs-btn-bg: #1952E1;
+    --bs-btn-hover-bg: #1649CA;
+    --bs-btn-hover-border-bg: #1649CA;
+    --bs-btn-active-bg: #2E3E6E;
+    --bs-btn-active-border-color: #2E3E6E;
+}
+
+.nav-link {
+    --bs-nav-link-font-size: 14px;
+    line-height: 24px;
+}
+
+.list-group-item {
+    --bs-list-group-item-padding-y: 20px;
+    --bs-list-group-item-padding-x: 24px;
+}
